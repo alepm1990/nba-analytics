@@ -1,2 +1,2 @@
 # nba-analytics
-Análisis y trabajos en Python con BBDD deportivos
+Análisis y trabajos en Python con BBDD deportivas
